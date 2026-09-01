@@ -3,7 +3,9 @@
 A responsive one-page landing site for a fictional premium car dealership. Static HTML/CSS/JS,
 no build step, no backend.
 
-**Live demo:** pending — not deployed yet.
+**Live demo:** https://abdulahhh2005.github.io/cars-landing-claude/
+
+![AutoVibe home page](./screenshot.png)
 
 ## What it does
 
